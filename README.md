@@ -11,18 +11,17 @@
 
 <div align="center">
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CI](https://img.shields.io/badge/CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-FF6A88?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![CI](https://img.shields.io/badge/CI-2088FF?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
 ![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-badge)
-![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+![Allure](https://img.shields.io/badge/Allure-FF6A88?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
 
 </div>
