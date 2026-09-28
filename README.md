@@ -1,12 +1,11 @@
-
+![AQA banner](./banner.png)  
 <div align="center">
   
-
 # Дарья Гембар
 
 **QA Engineer · Manual + Automation · Playwright · TypeScript**
 
-[Portfolio](https://github.com/DaryaGembar) · [PomidorQA](https://github.com/DaryaGembar/PomidorQA-tests) · [Resume RU](HH_LINK) · [Telegram](https://t.me/TELEGRAM_HANDLE) · [Email](mailto:daragembar@gmail.com)
+[Portfolio](https://github.com/DaryaGembar) · [PomidorQA](https://github.com/DaryaGembar/PomidorQA-tests) · [Resume](https://spb.hh.ru/resume/08d4f43eff10e3565c0039ed1f697539696551) · [Telegram](https://t.me/DaryaGembar) · [Email](mailto:daragembar@gmail.com)
 
 </div>
 
