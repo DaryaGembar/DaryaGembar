@@ -1,6 +1,7 @@
 
 <div align="center">
-
+  
+![AQA Banner](./banner.png)
 # Darya Gembar
 
 **QA Engineer · Manual + Automation · Playwright · TypeScript**
@@ -37,9 +38,6 @@
 
 <div align="center">
 
-[![Playwright QA Automation CI](https://github.com/DaryaGembar/PomidorQA-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/DaryaGembar/PomidorQA-tests/actions/workflows/playwright.yml)
-![Coverage](https://img.shields.io/badge/coverage-84%25-brightgreen)
-
 </div>
 
 ---
@@ -47,6 +45,7 @@
 ## Избранные QA-проекты
 
 ### [PomidorQA — Automation QA](https://github.com/DaryaGembar/PomidorQA-tests)
+![Coverage](https://img.shields.io/badge/coverage-84%25-brightgreen)
 
 Основной automation-проект на **Playwright + TypeScript** с Unit, API и E2E-проверками,
 cross-browser regression и traceability от требований до тестов.
