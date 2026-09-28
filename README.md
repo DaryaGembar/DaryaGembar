@@ -3,7 +3,7 @@
   
 # Дарья Гембар
 
-**QA Engineer · Manual + Automation · Playwright · TypeScript**
+**QA Engineer · Manual + Automation**
 
 [Portfolio](https://github.com/DaryaGembar) · [PomidorQA](https://github.com/DaryaGembar/PomidorQA-tests) · [Resume](https://spb.hh.ru/resume/08d4f43eff10e3565c0039ed1f697539696551) · [Telegram](https://t.me/DaryaGembar) · [Email](mailto:daragembar@gmail.com)
 
