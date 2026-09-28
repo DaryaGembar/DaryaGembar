@@ -1,6 +1,3 @@
-```markdown
-
-<!-- README для github.com/DaryaGembar — копируй отсюда -->
 
 <div align="center">
 
@@ -108,6 +105,5 @@ cross-browser regression и traceability от требований до тест
 ---
 
 <sub>📍 Санкт-Петербург · GMT+3 · Этот README обновляется по мере роста портфолио.</sub>
-```
 
 ---
