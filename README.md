@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![AQA Banner](./banner.png)
+
 # Дарья Гембар
 
 **QA Engineer · Manual + Automation · Playwright · TypeScript**
