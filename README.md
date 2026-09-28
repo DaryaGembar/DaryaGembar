@@ -81,12 +81,7 @@ cross-browser regression и traceability от требований до тест
 ## Артефакты в репозитории PomidorQA
 
 - 📋 [`docs/test-plan.md`](https://github.com/DaryaGembar/PomidorQA-tests/blob/main/docs/test-plan.md) — Test Plan с целями, стратегией, рисками, расписанием
-- 📝 [`docs/test-cases.md`](https://github.com/DaryaGembar/PomidorQA-tests/blob/main/docs/test-cases.md) — примеры Test Cases (smoke / boundary / negative / exploratory / a11y)
-- 🐛 [`docs/bug-reports/`](https://github.com/DaryaGembar/PomidorQA-tests/tree/main/docs/bug-reports) — шаблон + KD-1 (known defect) + BR-001, BR-002
 - 📊 [`docs/coverage-matrix.md`](https://github.com/DaryaGembar/PomidorQA-tests/blob/main/docs/coverage-matrix.md) — трассировка 50 требований ↔ тесты
-- 📖 [`docs/ci-walkthrough.md`](https://github.com/DaryaGembar/PomidorQA-tests/blob/main/docs/ci-walkthrough.md) — построчный разбор CI для подготовки к собеседованиям
-- 🤖 [`scripts/ai-review.mjs`](https://github.com/DaryaGembar/PomidorQA-tests/blob/main/scripts/ai-review.mjs) — AI-reviewer с двухпроходной проверкой
-
 ---
 
 ## Контакты
