@@ -68,12 +68,12 @@ cross-browser regression и traceability от требований до тест
 
 | Слой | Чем занимаюсь |
 | --- | --- |
-| **Test design** | Test Plans (scope, entry/exit, риски), Test Cases в стандартном формате: smoke, boundary, negative, exploratory, cross-cutting (a11y, mobile) |
-| **Bug reports** | Severity/Priority, шаги воспроизведения, expected vs actual, evidence, root cause, suggested fix |
+| **Test design** | Пишу планы проверок — что тестируем, в каком объёме, когда считаем готовым. Описываю сценарии в табличном виде: от простых проверок до граничных значений и негативных случаев |
+| **Bug reports** | Severity/Priority, шаги воспроизведения, ожидаемое против фактического, доказательства, корневая причина, предложение по исправлению | 
 | **Test automation** | POM, семантические локаторы, без `waitForTimeout`, auto-waiting через `expect().toPass()` и `expect.poll` |
 | **Test pyramid** | E2E для сквозных сценариев, API для бизнес-правил, Unit для чистых функций |
 | **CI / observability** | GitHub Actions с параллельными кубами, Allure с историей, артефакты падений |
-| **Process** | Traceability требований, ревью PR, документирование known defects вместо `test.skip()` |
+| **Process** | Traceability требований, ревью PR, документирование known defects |
 | **Manual** | Exploratory testing, чек-листы регресса, smoke после изменения стенда |
 
 ---
